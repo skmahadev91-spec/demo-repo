@@ -1,2 +1,2 @@
-# demo_repo
+# demo-repo
 fist github repository 
